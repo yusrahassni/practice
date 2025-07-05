@@ -1,6 +1,33 @@
-     
-  .carousel-img {
-    width: 100%;
-    max-width: 600px;
-    margin: 0 auto;
-  }
+     .carousel-img {
+       width: 100%;
+       max-width: 600px;
+       margin: 0 auto;
+     }
+
+     .nav-up {
+       font-size: 14px;
+       color: rgba(21, 21, 23, 0.64);
+     }
+
+     .login {
+       background-color: rgba(0, 86, 115, 1);
+       color: white;
+     }
+
+     .login:hover {
+       background-color: rgba(0, 86, 115, 1);
+       color: white;
+     }
+
+     .signup {
+       outline: 1px solid rgba(0, 86, 115, 1);
+       font-size: 14x;
+       font-weight: 500;
+       color: rgba(0, 86, 115, 1)
+     }
+
+     .img-box img {
+       height: 19px;
+       border-radius: 8px;
+      
+     }
